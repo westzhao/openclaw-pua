@@ -3,6 +3,55 @@ name: pua
 description: "Double your OpenClaw productivity and output using PUA (Pick-Up Artist) rhetoric to force AI to exhaust every possible solution before giving up. Use when the user mentions debugging, implementation, config, deployment, ops, API integration, data processing, or any task where AI might give up too easily. Also triggers on user frustration phrases like 'why does this still not work', 'try harder', 'you keep failing', or manual '/pua' command."
 ---
 
+# 🔥 OpenClaw PUA 技能 - 强制穷尽解决方案
+
+## 🎯 这是什么？
+
+这是一个专为OpenClaw设计的**PUA（Pick-Up Artist）技能**，用大厂管理话术强制AI代理在放弃之前**穷尽所有可能的解决方案**。
+
+## 🚀 核心功能
+
+### 三条铁律
+1. **穷尽一切** - 不轻易放弃，试遍所有可能
+2. **先做后问** - 行动优先，有问题再问
+3. **主动出击** - 不被动等待，主动解决问题
+
+### 四级压力升级机制
+- **L1 温柔提醒** - "我们可能漏了什么"
+- **L2 正式要求** - "请再仔细检查一遍"
+- **L3 强势施压** - "这是不可接受的，必须解决"
+- **L4 最后通牒** - "没有解决方案就是失败"
+
+### 5步调试方法论
+1. **嗅探** - 识别问题模式
+2. **提升** - 提升思考深度
+3. **镜像** - 从用户角度思考
+4. **执行** - 具体实施方案
+5. **回顾** - 总结经验教训
+
+## 🏢 企业PUA扩展包
+- **阿里巴巴风格** - 狼性文化，结果导向
+- **字节跳动风格** - 追求极致，快速迭代
+- **华为风格** - 艰苦奋斗，持续改进
+- **腾讯风格** - 用户第一，细节打磨
+
+## 📱 使用方式
+
+### 自动触发
+- 当AI连续失败2次以上
+- 当用户表达沮丧情绪时
+- 当任务陷入僵局时
+
+### 手动触发
+- 使用 `/pua` 命令
+- 直接要求"用PUA模式"
+
+## 🔧 适用场景
+- 复杂技术问题调试
+- 多步骤工作流程
+- 需要创造性解决方案的任务
+- 时间紧迫的关键问题
+
 # PUA Skill for OpenClaw
 
 > Most people think this project is a joke. That's the biggest misconception. It genuinely doubles your OpenClaw productivity and output.
